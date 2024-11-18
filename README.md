@@ -1,0 +1,4 @@
+Firstly, The purpose of this task was to help me learn about the flexbox layout properties and how to use them, when and where. It has been challenging amongst the other css elemnts i have done so far..
+I began the task by watching a youtube video on some basic flexbox properties, which made it easier for me to do the code..
+I have used various properties, such as the justify-content: space evenly, in which the boxes are distributed evenly with equal space amongst them, align-items:flex start, this aligns the items to the top of , a gap of 22px: which adds a space of 22px between the boxes, flex-wrap: wrap , this makes sure if the items exceed the width of the container then the items will wrap into the next row, and without this they would shrink
+The challenge i faced was adjusting the size on different screens using the media queries
